@@ -1,10 +1,10 @@
-👋 Hi, I’m [@Xero-Bytes!](https://github.com/Xero-Bytes)<br>  
-👀 I’m interested in Artificial Intelligence and Cyber Security.<br>   
-🌱 I’m currently learning AI and Cyber Security through various courses and projects.<br>   
-💞️ I’m looking to collaborate on AI and Cyber Security projects.<br>   
+👋 Hi, I’m [@Xero-Bytes!](https://github.com/Xero-Bytes) 
+👀 I’m interested in Artificial Intelligence and Cyber Security.  
+🌱 I’m currently learning AI and Cyber Security through various courses and projects. 
+💞️ I’m looking to collaborate on AI and Cyber Security projects.
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/taqdees-fatima-2a15732a6)<br>   
-😄 Pronouns: She/Her<br>   
-⚡ Fun fact: I love solving challenging CTF puzzles!<br> 
+😄 Pronouns: She/Her
+⚡ Fun fact: I love solving challenging CTF puzzles!
 
 
 <!---
